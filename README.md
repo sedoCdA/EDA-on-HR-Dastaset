@@ -1,3 +1,7 @@
+# HR Analytics - Exploratory Data Analysis (EDA)
+
+**Dataset:** HR_Analytics.csv | **Rows:** 1,480 | **Columns:** 38
+
 | Category              | Key Finding                          | Insight                                  |
 | --------------------- | ------------------------------------ | ---------------------------------------- |
 | **Overall Attrition** | ~16%                                 | Moderate attrition; needs attention      |
